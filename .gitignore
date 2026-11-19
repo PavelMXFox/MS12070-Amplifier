@@ -1,0 +1,16 @@
+# Сгенерированные KiCad'ом служебные файлы
+fp-info-cache
+*.kicad_prl
+*.bak
+
+# KiCad-автобэкапы
+*-backups/
+backups/
+
+## Артефакты экспорта
+#*.pdf
+#*.png
+
+# Прочее
+.history/
+_restore_backup_*/
